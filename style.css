@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+}
+
+#div-tag {
+    color: aliceblue;
+    text-align: center;
+    margin-top: 100px;
+    font-family: libre baskerville, serif;
+}
+
+h1{
+    text-transform: uppercase;
+}
+
+#motivational-image {
+    border: 5px solid white;
+}
